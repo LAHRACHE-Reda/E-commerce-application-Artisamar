@@ -1,4 +1,15 @@
-Ce projet a pour but de créer une application e-commerce dans le domaine d'artisanat marocaine.
+<h2>Ce projet a pour but de créer une application e-commerce dans le domaine d'artisanat marocaine.</h2>
+
+<h3>Outils:</h3>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JAVASCRIPT</li>
+    <li>PHP</li>
+    <li>MYSQL</li>
+    <li>BOOTSTRAP</li>
+    <li>LARAVEL</li>
+</ul>
 
 
 
